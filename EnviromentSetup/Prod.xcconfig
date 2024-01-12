@@ -1,0 +1,19 @@
+//
+//  Prod.xcconfig
+//  EnviromentSetup
+//
+//  Created by Tejas on 09/01/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+//prod
+//Server Url //dummy url
+server_url = https:/$()/myapp.prod.com
+
+//App Name
+app_name = EnviromentSetup(PROD)
+
+//Bundle Identifier
+app_bundle_identifier = tejaswini.com.EnviromentSetup.prod

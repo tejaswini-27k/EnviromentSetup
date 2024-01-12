@@ -1,0 +1,20 @@
+//
+//  Dev.xcconfig
+//  EnviromentSetup
+//
+//  Created by Tejas on 09/01/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+//Dev
+//Server Url //dummy url
+server_url = https:/$()/myapp.dev.com
+
+//App Name
+app_name = EnviromentSetup(DEV)
+
+//Bundle Identifier
+app_bundle_identifier = tejaswini.com.EnviromentSetup.dev
+
